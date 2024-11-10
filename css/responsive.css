@@ -1,0 +1,384 @@
+/* css media quries for-galxi fold screen resulation: 279px to 319px */
+@media ( min-width:279px) and ( max-width:319px){
+/* css start */
+
+	.container{
+		width: 90%;
+		float: left;
+		padding: 0px 15px;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-12{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+		width: 100%;
+		float: left;
+	}
+	.logo{
+		 display: block;
+    	text-align: center;
+	}
+	.navber{
+		text-align: center;
+	}
+	.manu li a {
+	    display: block;
+	    font-size: 9px;
+	    line-height: 24px;
+	    color: #35334E;
+	    margin: 10px 0px 0px 25px;
+	}
+	.banner {
+    	padding: 25px 0px;
+	}
+	.banner h1{
+		font-size: 24px;
+		line-height: 1.2em;
+	}
+	.banner{
+		font-size: 9px;
+		line-height: 1.7em;
+	}
+	.successful{
+		padding: 0px 0px 25px;
+	}
+	.left-success {
+    	text-align: left;
+	}
+	.left-success h1 {
+	    font-size: 24px;
+	    line-height: 1.2em;
+	}
+	.left-success p{
+		font-size: 9px;
+		line-height: 1.7em;
+	}
+	.right-success h1 {
+    	font-size: 24px;
+	    line-height: 1.2em;
+	}
+	.feature{
+		padding: 0px 0px 25px;
+	}
+	.feature-inner {
+	    width: 85%;
+	    float: left;
+	    padding: 30px 25px;
+	    margin: 0px 0px 15px;
+	    text-align: center;
+	}
+	.feature-inner h4 {
+	    font-size: 14px;
+	    line-height: 1.2em;
+	}
+	.feature-inner p{
+		font-size: 9px;
+		line-height: 1.7em;
+	}
+	.footer p{
+		font-size: 9px;
+		line-height: 1.7em;
+	}
+
+/* css end	*/
+
+}
+
+/* css media quries for most of the Mobile devices- screen resulation: 320px to 480px */
+@media ( min-width:320px) and ( max-width:480px){
+/* css start */
+	
+	.container{
+		width: 90%;
+		float: left;
+		padding: 0px 15px;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-12{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+		width: 100%;
+		float: left;
+	}
+	.logo{
+		 display: block;
+    	text-align: center;
+	}
+	.navber{
+		text-align: center;
+	}
+	.manu li a {
+	    display: block;
+	    font-size: 14px;
+	    line-height: 24px;
+	    color: #35334E;
+	    margin: 10px 0px 0px 25px;
+	}
+	.banner {
+    	padding: 30px 0px;
+	}
+	.banner h1{
+		font-size: 30px;
+		line-height: 1.2em;
+	}
+	.banner{
+		font-size: 11px;
+		line-height: 1.7em;
+	}
+	.successful{
+		padding: 0px 0px 30px;
+	}
+	.left-success {
+    	text-align: left;
+	}
+	.left-success h1 {
+	    font-size: 30px;
+	    line-height: 1.2em;
+	}
+	.left-success p{
+		font-size: 11px;
+		line-height: 1.7em;
+	}
+	.right-success h1 {
+    	font-size: 30px;
+	    line-height: 1.2em;
+	}
+	.feature{
+		padding: 0px 0px 30px;
+	}
+	.feature-inner {
+	    width: 90%;
+	    float: left;
+	    padding: 30px 25px;
+	    margin: 0px 0px 15px;
+	    text-align: center;
+	}
+	.feature-inner h4 {
+	    font-size: 16px;
+	    line-height: 1.2em;
+	}
+	.feature-inner p{
+		font-size: 11px;
+		line-height: 1.7em;
+	}
+	.footer p{
+		font-size: 11px;
+		line-height: 1.7em;
+	}
+
+/* css end	*/
+
+}
+
+/* 	* css media quries for: high resulation Mobile devices & Low resulation tablet/tab
+   	* screen resulation: 481px to 767px 
+ */
+@media (min-width:481px) and (max-width:767px){
+/* css start */
+
+	.container{
+		width: 90%;
+		float: left;
+		padding: 0px 20px;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-12{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+		width: 100%;
+		float: left;
+	}
+	.logo{
+		 display: block;
+    	text-align: center;
+	}
+	.navber{
+		text-align: center;
+	}
+	.manu li a {
+	    display: block;
+	    font-size: 14px;
+	    line-height: 24px;
+	    color: #35334E;
+	    margin: 10px 0px 0px 25px;
+	}
+	.banner {
+    	padding: 35px 0px;
+	}
+	.banner h1{
+		font-size: 32px;
+		line-height: 1.2em;
+	}
+	.banner{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.successful{
+		padding: 0px 0px 35px;
+	}
+	.left-success {
+    	text-align: left;
+	}
+	.left-success h1 {
+	    font-size: 32px;
+	    line-height: 1.2em;
+	}
+	.left-success p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.right-success h1 {
+    	font-size: 32px;
+	    line-height: 1.2em;
+	}
+	.feature{
+		padding: 0px 0px 35px;
+	}
+	.feature-inner {
+	    width: 95%;
+	    float: left;
+	    padding: 35px 30px;
+	    margin: 0px 0px 15px;
+	    text-align: center;
+	}
+	.feature-inner h4 {
+	    font-size: 17px;
+	    line-height: 1.2em;
+	}
+	.feature-inner p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.footer p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+
+/* css end */
+}
+
+/* 	* css media quries for: High Resulation tablet/tab, mini Note book
+   	* screen resulation: 768px to 1024px 
+ */
+@media (min-width:768px) and (max-width:1024px){
+/* css start */
+
+	.container{
+		width: 90%;
+		float: left;
+		padding: 0px 25px;
+	}
+	.row{
+		width: 100%;
+		float: left;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-12{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+		width: 100%;
+		float: left;
+	}
+	.logo{
+		 display: block;
+    	text-align: center;
+	}
+	.navber{
+		text-align: center;
+	}
+	.manu{
+		text-align: center;
+	}
+	.manu li a {
+	    display: block;
+	    font-size: 14px;
+	    line-height: 24px;
+	    color: #35334E;
+	    margin: 10px 0px 0px 25px;
+	}
+	.banner {
+    	padding: 40px 0px;
+	}
+	.banner h1{
+		font-size: 34px;
+		line-height: 1.2em;
+	}
+	.banner{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.successful{
+		padding: 0px 0px 40px;
+	}
+	.left-success {
+    	text-align: left;
+	}
+	.left-success h1 {
+	    font-size: 34px;
+	    line-height: 1.2em;
+	}
+	.left-success p{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.right-success h1 {
+    	font-size: 34px;
+	    line-height: 1.2em;
+	}
+	.feature{
+		padding: 0px 0px 40px;
+	}
+	.feature-inner {
+	    width: 90%;
+	    float: left;
+	    padding: 35px 45px;
+	    margin: 0px 0px 15px;
+	    text-align: center;
+	}
+	.feature-inner h4 {
+	    font-size: 18px;
+	    line-height: 1.2em;
+	}
+	.feature-inner p{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.footer p{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	
+/* css end */
+}
